@@ -7,7 +7,7 @@ import javax.persistence.Table;
 import java.io.Serializable;
 
 /**
- * Created by Zhao.Xu on 2017/7/12.
+ * Created by Shallow Xu on 2017/7/12.
  */
 @Entity
 @Table(name = "order_info")
